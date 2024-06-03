@@ -1,0 +1,4 @@
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache

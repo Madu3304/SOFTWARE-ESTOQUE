@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\obj\Debug\net7.0\Teste.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\obj\Debug\net7.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\obj\Debug\net7.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\obj\Debug\net7.0\Teste.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Católica SC\01 seme\SEGUNDA - MANSEIRA\20-05\TRABALHO\SOFTWARE-ESTOQUE\Teste\obj\Debug\net7.0\Teste.csproj.CoreCompileInputs.cache
